@@ -12,7 +12,7 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "20047839",
+            "description": "20319884",
             "required": true
         },
         "API_HASH": {
@@ -20,15 +20,15 @@
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "6837671977:AAEmkJ1rVZt1_EpOftna9E9Z0px72MATYlg",
+            "description": "6377644703:AAEVpoHyO1l1zLvUvHgfAh8-xGoRyxRmoc0",
             "required": true
         },
         "OWNER_ID": {
-            "description": "6332321765",
+            "description": "1183124209",
             "required": true
         },
         "SUDO_USERS": {
-            "description": "6381511858",
+            "description": "5665231556",
             "required": true
         }
     },
