@@ -1,0 +1,44 @@
+{
+    "name": "𝐓𝐞𝐱𝐭 𝐋𝐞𝐞𝐜𝐡",
+    "description": "𝑻𝒆𝒙𝒕 𝑳𝒆𝒆𝒄𝒉 𝑽𝒊𝒅𝒆𝒐 𝑬𝒙𝒕𝒓𝒂𝒄𝒕𝒐𝒓 𝑭𝒐𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎",
+    "logo": "https://telegra.ph/file/32f106d692ff33700c464.jpg",
+    "keywords": [
+        "text-video",
+        "video-extract",
+        "pyrogram"
+    ],
+    "repository": "https://github.com/XdityaHalder/SankiMusic",
+    "success_url": "https://t.me/AdityaDiscus",
+    "stack": "container",
+    "env": {
+        "API_ID": {
+            "description": "20047839",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "e635f85a4dae812a26c450c0d41276b0",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "6837671977:AAEmkJ1rVZt1_EpOftna9E9Z0px72MATYlg",
+            "required": true
+        },
+        "OWNER_ID": {
+            "description": "6332321765",
+            "required": true
+        },
+        "SUDO_USERS": {
+            "description": "6381511858",
+            "required": true
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+        }
+    ]
+    }
